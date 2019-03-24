@@ -32,7 +32,7 @@
  {
  "name": "Albuquerque",
  "country": "U.S.A.",
- "timeZoneName": "US/Mountain"
+ "timeZoneName": "America/Denver"
  },
  {
  "name": "Algiers",
@@ -97,7 +97,7 @@
  {
  "name": "Atlanta",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Auckland",
@@ -107,7 +107,7 @@
  {
  "name": "Austin",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Baghdad",
@@ -122,7 +122,7 @@
  {
  "name": "Baltimore",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Bamako",
@@ -177,12 +177,12 @@
  {
  "name": "Benicia",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Berkeley",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Berlin",
@@ -207,7 +207,7 @@
  {
  "name": "Blacksburg",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Bogotá",
@@ -222,7 +222,7 @@
  {
  "name": "Boston",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Bratislava",
@@ -262,12 +262,12 @@
  {
  "name": "Buenos Aires",
  "country": "Argentina",
- "timeZoneName": "America/Buenos_Aires"
+ "timeZoneName": "America/Argentina/Buenos_Aires"
  },
  {
  "name": "Burlingame",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Cairo",
@@ -287,7 +287,7 @@
  {
  "name": "Canberra",
  "country": "Australia",
- "timeZoneName": "Australia/Canberra"
+ "timeZoneName": "Australia/Melbourne"
  },
  {
  "name": "Canton",
@@ -322,7 +322,7 @@
  {
  "name": "Charlotte",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Charlotte Amalie",
@@ -332,7 +332,7 @@
  {
  "name": "Chennai",
  "country": "India",
- "timeZoneName": "Asia/Kolkata"
+ "timeZoneName": "Asia/Calcutta"
  },
  {
  "name": "Chicago",
@@ -352,7 +352,7 @@
  {
  "name": "Cleveland",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Colombo",
@@ -362,7 +362,7 @@
  {
  "name": "Columbus",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Conakry",
@@ -377,7 +377,7 @@
  {
  "name": "Cupertino",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Cork",
@@ -402,12 +402,12 @@
  {
  "name": "Dallas",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Daly City",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Damascus",
@@ -472,7 +472,7 @@
  {
  "name": "El Paso",
  "country": "U.S.A.",
- "timeZoneName": "US/Mountain"
+ "timeZoneName": "America/Denver"
  },
  {
  "name": "Florence",
@@ -482,7 +482,7 @@
  {
  "name": "Fremont",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Fort-de-France",
@@ -492,7 +492,7 @@
  {
  "name": "Foster City",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Freetown",
@@ -562,7 +562,7 @@
  {
  "name": "Hanoi",
  "country": "Vietnam",
- "timeZoneName": "Asia/Saigon"
+ "timeZoneName": "Asia/Ho_Chi_Minh"
  },
  {
  "name": "Harare",
@@ -577,7 +577,7 @@
  {
  "name": "Healdsburg",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Helsinki",
@@ -602,12 +602,12 @@
  {
  "name": "Houston",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Indianapolis",
  "country": "U.S.A.",
- "timeZoneName": "America/Indianapolis"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Irkutsk",
@@ -682,12 +682,12 @@
  {
  "name": "Knoxville",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Kolkata",
  "country": "India",
- "timeZoneName": "Asia/Kolkata"
+ "timeZoneName": "Asia/Calcutta"
  },
  {
  "name": "Krasnoyarsk",
@@ -717,7 +717,7 @@
  {
  "name": "Las Vegas",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Lima",
@@ -732,7 +732,7 @@
  {
  "name": "Little Rock",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Ljubljana",
@@ -747,7 +747,7 @@
  {
  "name": "Los Altos",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Los Angeles",
@@ -757,12 +757,12 @@
  {
  "name": "Los Gatos",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Louisville",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Luanda",
@@ -787,7 +787,7 @@
  {
  "name": "Madison",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Madrid",
@@ -842,12 +842,12 @@
  {
  "name": "Memphis",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Menlo Park",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Messina",
@@ -862,7 +862,7 @@
  {
  "name": "Miami",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Milan",
@@ -872,17 +872,17 @@
  {
  "name": "Milbank",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Milwaukee",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Minneapolis",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Minsk",
@@ -912,7 +912,7 @@
  {
  "name": "Montpelier",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Montreal",
@@ -927,17 +927,17 @@
  {
  "name": "Monterey",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Mountain View",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Mumbai",
  "country": "India",
- "timeZoneName": "Asia/Kolkata"
+ "timeZoneName": "Asia/Calcutta"
  },
  {
  "name": "Munich",
@@ -952,7 +952,7 @@
  {
  "name": "Napa",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Naples",
@@ -977,12 +977,12 @@
  {
  "name": "New Delhi",
  "country": "India",
- "timeZoneName": "Asia/Kolkata"
+ "timeZoneName": "Asia/Calcutta"
  },
  {
  "name": "New Orleans",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "New York",
@@ -1007,7 +1007,7 @@
  {
  "name": "Novato",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Novosibirsk",
@@ -1027,17 +1027,17 @@
  {
  "name": "Oakland",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Oklahoma City",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Omaha",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Omsk",
@@ -1067,7 +1067,7 @@
  {
  "name": "Pacifica",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Pago Pago",
@@ -1082,7 +1082,7 @@
  {
  "name": "Palo Alto",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Panama City",
@@ -1117,12 +1117,12 @@
  {
  "name": "Petaluma",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Philadelphia",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Phnom Penh",
@@ -1137,12 +1137,12 @@
  {
  "name": "Pittsburgh",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Pleasanton",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Podgorica",
@@ -1167,7 +1167,7 @@
  {
  "name": "Portland",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Prague",
@@ -1202,7 +1202,7 @@
  {
  "name": "Redwood City",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Regina",
@@ -1242,7 +1242,7 @@
  {
  "name": "Salt Lake City",
  "country": "U.S.A.",
- "timeZoneName": "US/Mountain"
+ "timeZoneName": "America/Denver"
  },
  {
  "name": "Samara",
@@ -1252,32 +1252,32 @@
  {
  "name": "San Diego",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Antonio",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "San Bruno",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Carlos",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Francisco",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Jose",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San José",
@@ -1292,7 +1292,7 @@
  {
  "name": "San Leandro",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Salvador",
@@ -1307,32 +1307,32 @@
  {
  "name": "San Mateo",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Pablo",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Rafael",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "San Ramon",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Santa Clara",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Santa Cruz",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Sanaa",
@@ -1357,7 +1357,7 @@
  {
  "name": "Seattle",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Seoul",
@@ -1382,7 +1382,7 @@
  {
  "name": "Sioux Falls",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Skopje",
@@ -1402,7 +1402,7 @@
  {
  "name": "St. Louis",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "St. Petersburg",
@@ -1412,7 +1412,7 @@
  {
  "name": "Sunnyvale",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Stockholm",
@@ -1457,7 +1457,7 @@
  {
  "name": "Ho Chi Minh City",
  "country": "Vietnam",
- "timeZoneName": "Asia/Saigon"
+ "timeZoneName": "Asia/Ho_Chi_Minh"
  },
  {
  "name": "Tianjin",
@@ -1502,7 +1502,7 @@
  {
  "name": "UTC",
  "country": "",
- "timeZoneName": "UTC"
+ "timeZoneName": "GMT"
  },
  {
  "name": "Vaduz",
@@ -1512,7 +1512,7 @@
  {
  "name": "Vallejo",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Valletta",
@@ -1557,7 +1557,7 @@
  {
  "name": "Walnut Creek",
  "country": "U.S.A.",
- "timeZoneName": "US/Pacific"
+ "timeZoneName": "America/Los_Angeles"
  },
  {
  "name": "Warsaw",
@@ -1567,7 +1567,7 @@
  {
  "name": "Washington, D.C.",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Wellington",
@@ -1617,7 +1617,7 @@
  {
  "name": "Decatur",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Vientiane",
@@ -1672,12 +1672,12 @@
  {
  "name": "Berkeley Heights",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Acton",
  "country": "U.S.A.",
- "timeZoneName": "US/Eastern"
+ "timeZoneName": "America/New_York"
  },
  {
  "name": "Thessaloniki",
@@ -2737,7 +2737,7 @@
  {
  "name": "Christiansted",
  "country": "U.S. Virgin Islands",
- "timeZoneName": "America/Virgin"
+ "timeZoneName": "America/Port_of_Spain"
  },
  {
  "name": "Efate",
@@ -2787,12 +2787,12 @@
  {
  "name": "Nashville",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Green Bay",
  "country": "U.S.A.",
- "timeZoneName": "US/Central"
+ "timeZoneName": "America/Chicago"
  },
  {
  "name": "Acapulco",
